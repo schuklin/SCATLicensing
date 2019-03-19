@@ -1,0 +1,6 @@
+LIBRARY    "ScatClient.dll"
+
+EXPORTS
+GetClassObject
+DestroyObject
+GetClassNames
